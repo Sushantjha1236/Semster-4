@@ -1,5 +1,5 @@
 # Semester-4
-This repository consists of all the practical files along with a description of each present for semester -4.
+This repository consists of all the practical files along with a description of each present for Semester -4.
 # [Git and Git-Hub](https://github.com/Sushantjha1236/Semster-4/blob/main/Git%20and%20Git-Hub/README.md)<br>
 ## Topics
 ### Install Git and create repository<br>
