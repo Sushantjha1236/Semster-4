@@ -1,25 +1,25 @@
-## Semster-4
+# Semster-4
 This repository consists of all the practical files along with a description of each present for semester -4.
 # [Git and Git-Hub](https://github.com/Sushantjha1236/Semster-4/blob/main/Git%20and%20Git-Hub/README.md)<br>
-# Topics
-## Install Git and create repository<br>
+## Topics
+### Install Git and create repository<br>
 Installing Git prompts you to select a text editor. If you don’t have one, we strongly advise you to install it before installing Git. Our roundup of the best text editors for coding may help you decide.<br>
-## Creating branches with GitHub<br>
+### Creating branches with GitHub<br>
 Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch and can have multiple other branches. You can merge a branch into another branch using a pull request.<br>
-## Create and explore Pull request<br>
+### Create and explore Pull request<br>
 Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.<br>
 Pull Requests are commonly used by teams and organizations collaborating using the Shared Repository Model, where everyone shares a single repository, and topic branches are used to develop features and isolate changes. Many open source projects on GitHub use pull requests to manage changes from contributors as they are useful in providing a way to notify project maintainers about changes one has made and in initiating code review and general discussion about a set of changes before being merged into the main branch.<br>
-## Editing a file and committing changes on GitHub<br>
+### Editing a file and committing changes on GitHub<br>
 Git commits are snapshots of a project's files at specific moments, each identified by a unique SHA-1 hash. They include metadata like author details, timestamps, and commit messages. Commits form a directed acyclic graph, with branches pointing to specific commits. Clear commit messages are crucial for documenting changes, and commits should represent atomic changes for clarity and ease of management. Git offers tools for manipulating commit history, but caution is necessary to maintain a coherent project history, especially in collaborative settings.<br>
 # [Data Analysis and Algorithm](https://github.com/Sushantjha1236/Semster-4/tree/main/Data%20Analysis%20and%20Algorithm)<br>
-# Topics
-## Binary Search<br>
+## Topics
+### Binary Search<br>
 Binary search is an efficient algorithm used to find a target value within a sorted array or list. It works by repeatedly dividing the search interval in half, eliminating half of the remaining elements each time based on whether the target value is greater or lesser than the middle element. This process continues until the target value is found or the search interval is empty. Binary search has a time complexity of O(log n), where n is the number of elements in the array. This logarithmic time complexity makes it significantly faster than linear search algorithms, especially for large datasets, as it quickly narrows down the search space with each iteration. However, it requires that the array be sorted beforehand, which can add time complexity of O(n log n) if sorting is necessary, though this sorting can often be done separately from the binary search itself.<br>
-## Quick sort<br>
+### Quick sort<br>
 Quick sort is a sorting algorithm that follows the divide and conquer strategy. It selects a pivot element, partitions the array into two sub-arrays around the pivot (one with elements less than the pivot and the other with elements greater), and recursively sorts the sub-arrays. It has an average time complexity of O(n log n), making it efficient for large datasets. However, its worst-case time complexity is O(n^2) if poorly chosen pivots, such as the first or last element, consistently lead to unbalanced partitions.<br>
-## Strassen Matrix<br>
+### Strassen Matrix<br>
 Strassen's algorithm is a method for multiplying matrices that reduces the number of arithmetic operations needed compared to the standard matrix multiplication algorithm. It accomplishes this by recursively breaking down the matrices into smaller submatrices and using clever combinations of additions and subtractions to compute the result. Strassen's algorithm has a time complexity of approximately O(n^2.81), which is an improvement over the standard O(n^3) complexity for large matrices. However, it has higher constant factors and overhead due to its recursive nature, so it may not always outperform the standard algorithm for smaller matrix sizes.<br>
-## Kruskal’s Algorithm<br>
+### Kruskal’s Algorithm<br>
 Kruskal's algorithm is a greedy algorithm used to find the minimum spanning tree (MST) of a connected, undirected graph. It works by sorting the edges of the graph by their weights and then adding them to the MST one by one in increasing order of weight while ensuring that no cycles are formed. This is achieved by maintaining disjoint sets of vertices and including an edge in the MST only if it connects two disjoint sets. Kruskal's algorithm has a time complexity of O(E log E), where E is the number of edges in the graph, primarily due to the sorting step.<br>
-## Job Sequencing<br>
+### Job Sequencing<br>
 Job sequencing is a problem in combinatorial optimization where a set of jobs with associated deadlines and profits are to be scheduled for execution on a single machine to maximize the total profit earned. The objective is to select a subset of jobs that can be completed within their deadlines while maximizing the total profit. This problem is typically solved using greedy algorithms such as the earliest deadline first (EDF) or highest profit first (HPF), with time complexity depending on the chosen approach.<br>
