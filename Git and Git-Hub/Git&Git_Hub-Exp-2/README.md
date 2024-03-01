@@ -20,6 +20,8 @@ Branches in GitHub serve as parallel streams of development within a repository,
 
 - **Create Branch:** Run the following command to create a new branch: 'git checkout -b <branch-name>'
     Replace <branch-name> with the desired name for your new branch.
-
+  
 - **Push Branch to GitHub:** If you want to push the new branch to GitHub, use the following command: 'git push origin <branch-name>'
 <br>This command pushes the newly created branch to GitHub, making it available for collaboration.
+![Screenshot 2024-03-01 105049](https://github.com/Sushantjha1236/Semster-4_Practicals/assets/113833084/bf41ca27-82a0-4020-b0ec-1a6910bf2dc2)
+## Navigate to the GIT-Hub [Experiment-1.2 file](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/Git%20and%20Git-Hub/Git%26Git_Hub-Exp-2/Git_Experiment1.2.pdf)
