@@ -1,5 +1,5 @@
 # Creating branches with GitHub
-## About
+## About Branches
 Branches in GitHub serve as parallel streams of development within a repository, allowing developers to work on distinct features or fixes without directly altering the main codebase. Commonly named master or main, the main branch represents the stable version of the project. Developers create branches for specific tasks, such as implementing new features or addressing bugs, and isolating changes to facilitate management and review. Pull requests are then used to merge these changes into the main branch after review. GitHub offers options for merging, including regular merges and squash merges, and allows repository owners to protect branches to ensure code quality. Once changes are merged or become obsolete, branches can be deleted, maintaining a clean repository. Overall, GitHub branches streamline collaboration, version control, and code organization in software development projects.
 ![image](https://github.com/Sushantjha1236/Semster-4_Practicals/assets/113833084/5f6ef6da-6b97-4f55-9d92-fb77ae699b29)
 ## Steps to create a branch on the Git hub
