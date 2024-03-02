@@ -43,3 +43,4 @@ A pull request is a fundamental aspect of collaborative software development, pa
 - Provide a title and description for the pull request.
 - Click on the "Create pull request" button to submit the pull request.
 ![Screenshot 2024-03-01 112609](https://github.com/Sushantjha1236/Semster-4_Practicals/assets/113833084/30a42d1e-82c2-448e-912a-99c9e0e4b456)
+## Navigate to the GIT-Hub [Experiment-1.3 file](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/Git%20and%20Git-Hub/Git%26Git_Hub-Exp-3/Git_Experiment1.3.pdf)
