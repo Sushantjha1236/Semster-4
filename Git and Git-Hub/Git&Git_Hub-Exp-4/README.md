@@ -15,4 +15,6 @@ Repository administrators can enable rulesets for a branch to enforce specific c
 - Check the status: git status
 - Stage the changes: ' git add <file_name> ' or 'git add .'
 - Commit the changes: git commit -m " Your commit message here "
-Push changes to the remote repository: git push origin <branch_name>
+Push changes to the remote repository: git push origin <branch_name><br>
+![Screenshot 2024-03-03 164919](https://github.com/Sushantjha1236/Semster-4_Practicals/assets/113833084/569f46b4-3bd6-434c-a411-0f8d3c1082d6)
+## Navigate to the GIT-Hub [Experiment-2.1 file](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/Git%20and%20Git-Hub/Git%26Git_Hub-Exp-4/Git_Experiment2.1.pdf)
