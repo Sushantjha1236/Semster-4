@@ -25,11 +25,11 @@ Matrix multiplication is based on a divide-and-conquer-based approach. Here we d
 ### Aim:-
 Find out the Minimum Cost Spanning Tree using Kruskal’s Algorithm with the help of the Greedy Approach.<br>
 ### Logic:-
-A minimum spanning tree (MST) or minimum weight spanning tree is a subset of the edges of a connected, edge-weighted undirected graph that connects all the vertices together, without any cycles and with the minimum possible total edge weight.
+A minimum spanning tree (MST) or minimum weight spanning tree is a subset of the edges of a connected, edge-weighted undirected graph that connects all the vertices, without any cycles and with the minimum possible total edge weight.
 
-# [Experiment-2.2](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/Data%20Analysis%20and%20Algorithm/DAA_exp-5/README.md))
+# [Experiment-2.2](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/Data%20Analysis%20and%20Algorithm/DAA_exp-5/README.md)
 ### Aim: 
 Perform Job Sequencing with a deadline using the Greedy Approach using C/C++.
 ### Logic:
 A greedy algorithm is an approach for solving a problem by selecting the best option available at the moment. It doesn't worry whether the current best result will bring the overall optimal result. The algorithm never reverses the earlier decision even if the choice is wrong. It works in a top-down approach.
-
+## [<-BACK](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/README.md)
