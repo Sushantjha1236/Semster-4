@@ -1,5 +1,5 @@
 # Git&Git-hub_Practical
-Contains Practical files of Git and Git-Hub.
+Contains Practical files of Git and Git-Hub from semester-4.
 ## About
 Git is a distributed version control system widely used in software development for managing source code changes efficiently. It provides developers with the ability to track modifications, collaborate on projects, and maintain a complete history of revisions. With Git, developers can create local repositories on their machines, make changes to files, stage those changes, and commit them with meaningful messages. Git enables branching, allowing developers to work on multiple features or fixes concurrently without affecting the main codebase, and merging changes seamlessly once they are ready. Additionally, Git integrates with remote repositories hosted on platforms like GitHub, GitLab, or Bitbucket, facilitating collaboration among team members and enabling version control in distributed environments. Overall, Git's flexibility, scalability, and robust features make it an essential tool for modern software development workflows.<br>
 <br>
