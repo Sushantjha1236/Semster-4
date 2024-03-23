@@ -32,4 +32,4 @@ A minimum spanning tree (MST) or minimum weight spanning tree is a subset of the
 Perform Job Sequencing with a deadline using the Greedy Approach using C/C++.
 ### Logic:
 A greedy algorithm is an approach for solving a problem by selecting the best option available at the moment. It doesn't worry whether the current best result will bring the overall optimal result. The algorithm never reverses the earlier decision even if the choice is wrong. It works in a top-down approach.
-## [<-BACK](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/README.md)
+## [<--BACK](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Git and Git-Hub-->](https://github.com/Sushantjha1236/Semster-4_Practicals/blob/main/Git%20and%20Git-Hub/README.md)
